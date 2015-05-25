@@ -6,6 +6,8 @@ A Leiningen template for Bocko.
 
 `lein new bocko my-project`
 
+Then see the `README.md` within `my-project`.
+
 ## License
 
 Copyright © 2015 Mike Fikes
