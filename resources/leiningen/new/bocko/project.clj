@@ -1,3 +1,3 @@
-(defproject {{name}} "0.3.0"
-  :dependencies [[org.clojure/clojure "1.7.0-RC1"]
-                 [bocko "0.3.0"]])
+(defproject {{name}} "1.0.0"
+  :dependencies [[org.clojure/clojure "1.8.0"]
+                 [bocko "1.0.0"]])
